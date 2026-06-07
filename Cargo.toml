@@ -1,0 +1,11 @@
+[package]
+name = "token-stream"
+version = "0.1.0"
+edition = "2021"
+description = "Lexical token stream with position tracking, lookahead, and span management for compiler infrastructure"
+license = "MIT"
+repository = "https://github.com/SuperInstance/token-stream"
+keywords = ["token", "lexer", "stream", "compiler", "span"]
+categories = ["development-tools", "parsing"]
+
+[dependencies]
